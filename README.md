@@ -17,7 +17,7 @@ Propósito Educacional:Este projeto destina-se exclusivamente a fins educativos 
 Como usar
 Primeiramente tenha as ferramentas instaladas em seu sistema operacional. Siga o passo a passo de instalação das ferramentas nos sites correspondentes: SeToolKit e ErisPhisher Atente-se para o fato de o passo a passo será feito utilizando o Kali Linux virtualizado (WSL) e que as duas ferramentas são CLI (interfaces de linha de comando).
 
-Iniciaremos com o SetoolKit.
+<h3>Iniciaremos com o SetoolKit.</h3>
 A ferramenta é baseada em menus de seleção, como a ordem dos números pode alterar com o tempo, incluirei somente o nome da opção a selecionar. Caso queira explorar melhor as demais opções, a ferramenta possui uma documentação bem completa, não exite em lê-la:
 
 Abra o terminal
